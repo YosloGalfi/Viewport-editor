@@ -1,0 +1,4 @@
+﻿  Unload Maya plugin before building
+  Python hittades inte. K÷r utan argument f÷r att installera frÕn Microsoft Store eller inaktivera den hõr genvõgen frÕn Instõllningar > Hantera alias f÷r k÷rning av program.
+E:\VisualStudio\Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(145,5): error MSB3073: The command "python unloadPlugin.py
+E:\VisualStudio\Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(145,5): error MSB3073: :VCEnd" exited with code 9009.
